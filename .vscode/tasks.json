@@ -1,0 +1,8 @@
+{
+    "version": "0.1.0",
+    "command": "/Users/AstonWorkMac/VirtualEnvs/py2/bin/python2.7",
+    "isShellCommand": true,
+    "args": ["${file}"],
+    "showOutput": "always"
+    }
+    
